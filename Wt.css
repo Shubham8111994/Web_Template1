@@ -1,0 +1,16 @@
+.mypage{
+    text-align: center;
+    margin-bottom: 0;
+    color: slategray;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    overflow: hidden;
+    
+    
+}
+
+.image{
+    height: 200px;
+    background: #aaa;
+}
